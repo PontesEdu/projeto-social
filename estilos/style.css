@@ -63,7 +63,7 @@ img{
 img:hover{
     border: 4px solid rgba(255, 255, 255, 0.815);
     transition: 0.3s, border 0.1s;
-    transform: translate(-2px, -2px);
+    transform: translate(-3px, 3px);
     box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.400);
 }
 
