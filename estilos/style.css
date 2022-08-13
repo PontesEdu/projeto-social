@@ -34,3 +34,15 @@ main{
     background: url('../imagens/frame-iphone-novo.png') no-repeat;
 
 }
+
+
+#frame{
+    position: relative;
+    top: 58px;
+    left: 16px;
+    width: 192px;
+    height: 341px;
+}
+
+
+
